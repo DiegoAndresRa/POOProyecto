@@ -1,0 +1,40 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/diegoandres/Desktop/Java/Proyecto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoFinalPOO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/diegoandres/Desktop/Java/Proyecto/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoFinalPOO 1.0-SNAPSHOT API'
+com.mycompany.proyecto
+/Users/diegoandres/Desktop/Java/Proyecto/src/main/java/.DS_Store = 1639046360000
+/Users/diegoandres/Desktop/Java/Proyecto/src/main/java = 1639110813000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/constant-values.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/overview-tree.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/index.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/allclasses-noframe.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/index-all.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/deprecated-list.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/script.js = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/stylesheet.css = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/help-doc.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/allclasses-frame.html = 1639110828000
+/Users/diegoandres/Desktop/Java/Proyecto/target/site/apidocs/package-list = 1639110828000

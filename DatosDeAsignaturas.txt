@@ -1,0 +1,50 @@
+Álgebra,8,1
+Cálculo y Geometría Analítica,12,1
+Fundamento de Física,6,1
+Fundamento de Programación,10,1
+Química,10,1
+Álgebra Lineal,8,2
+Cálculo Integral,8,2
+Estructura de Datos y Algoritmos I,10,2
+Mecánica,12,2
+Redacción y Exposición de Temas de Ingeniería,6,2
+Cálculo Vectorial,8,3
+Ecuaciones Diferenciales,8,3
+Estructura de Datos y Algoritmos II,10,3
+Probabilidad,8,3
+Programación Orientada a Objetos,10,3
+Análisis Numérico,8,4
+Electricidad y Magnetismo,10,4
+Estruturas Discretas,8,4
+Fundamentos de Estadística,8,4
+Matemáticas Avanzadas,8,4
+Dispositivos Electrónicos,10,5
+Estructura y Programación de Computadoras,8,5
+Ingeniería de Software,8,5
+Lenguajes Formales y Autómatas,8,5
+Señales y Sistemas,8,5
+Administración de Proyectos de Software,8,6
+Bases de Datos,14,6
+Circuitos Eléctricos,8,6
+Diseño Digital Moderno,10,6
+Sistemas Operativos,8,6
+Compiladores,8,7
+Diseño Digital VLSI,8,7
+Finanzas en la Ingeniería en Computación,6,7
+Inteligencia Artificial,8,7
+Sistemas de comunicaciones,8,7
+Computación Gráfica e Interacción Humano-Computadora,10,8
+Ética Profesional,6,8
+Microcomputadoras,8,8
+Redes de Datos seguras,14,8
+Optativa de Ciencias Sociales y Humanidades,6,8
+Fundamentos de Sistemas Embebidos,8,9
+Organización y Arquitectura de Computadoras,8,9
+Recursos y Necesidades de México,8,9
+Sistemas Distribuidos,8,9
+Optativa de Campo de Profundización,8,9
+Administración de centros de tecnología de información,8,10
+Administración de servicios de internet,8,10
+Bases de datos distribuidas,8,10
+Física cuántica,8,10
+Seguridad informática avanzada,8,10
